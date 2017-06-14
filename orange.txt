@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 the in master
+=======
+im in the new_grocery_list
+>>>>>>> new_grocery_list
